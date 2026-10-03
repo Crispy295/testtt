@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " G ",
+    "GNG",
+    " G "
+  ],
+  "key": {
+    "G": { "item": "minecraft:glass" },
+    "N": { "item": "minecraft:nether_star" }
+  },
+  "result": {
+    "id": "blackhole:black_hole",
+    "count": 1
+  }
+}

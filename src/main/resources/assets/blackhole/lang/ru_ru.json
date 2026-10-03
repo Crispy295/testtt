@@ -1,0 +1,14 @@
+{
+  "item.blackhole.black_hole": "Чёрная дыра",
+  "item.blackhole.black_hole.tooltip1": "Бросьте, чтобы создать чёрную дыру",
+  "item.blackhole.black_hole.tooltip2": "Поглощает блоки в радиусе 15 и мобов в радиусе 25",
+  "item.blackhole.black_hole.tooltip3": "Перезарядка: 10 секунд",
+  "entity.blackhole.black_hole": "Чёрная дыра",
+  "entity.blackhole.black_hole_projectile": "Брошенная чёрная дыра",
+  "entity.blackhole.sucked_block": "Поглощённый блок",
+  "death.attack.blackHole": "%1$s был поглощён чёрной дырой",
+  "death.attack.blackHole.player": "%1$s был поглощён чёрной дырой, брошенной игроком %2$s",
+  "subtitles.blackhole.hum": "Чёрная дыра гудит",
+  "subtitles.blackhole.collapse": "Чёрная дыра схлопывается",
+  "subtitles.blackhole.spawn": "Чёрная дыра формируется"
+}

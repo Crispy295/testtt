@@ -1,0 +1,14 @@
+{
+  "item.blackhole.black_hole": "Black Hole",
+  "item.blackhole.black_hole.tooltip1": "Throw it to create a black hole",
+  "item.blackhole.black_hole.tooltip2": "Devours blocks within 15 blocks and mobs within 25",
+  "item.blackhole.black_hole.tooltip3": "Cooldown: 10 seconds",
+  "entity.blackhole.black_hole": "Black Hole",
+  "entity.blackhole.black_hole_projectile": "Thrown Black Hole",
+  "entity.blackhole.sucked_block": "Swallowed Block",
+  "death.attack.blackHole": "%1$s was swallowed by a black hole",
+  "death.attack.blackHole.player": "%1$s was swallowed by a black hole thrown by %2$s",
+  "subtitles.blackhole.hum": "Black hole rumbles",
+  "subtitles.blackhole.collapse": "Black hole collapses",
+  "subtitles.blackhole.spawn": "Black hole forms"
+}

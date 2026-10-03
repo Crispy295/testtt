@@ -1,0 +1,5 @@
+{
+  "hum":      { "sounds": ["blackhole:hum"] },
+  "collapse": { "sounds": ["blackhole:collapse"] },
+  "spawn":    { "sounds": ["blackhole:spawn"] }
+}

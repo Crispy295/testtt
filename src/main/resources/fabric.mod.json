@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "blackhole",
+  "version": "${version}",
+  "name": "Black Hole",
+  "description": "Throwable Black Hole item: a realistic black hole that swallows blocks within 15 blocks and mobs within 25 blocks.",
+  "authors": ["Claude"],
+  "license": "MIT",
+  "icon": "assets/blackhole/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.blackhole.BlackHoleMod"],
+    "client": ["com.blackhole.client.BlackHoleClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
